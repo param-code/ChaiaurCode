@@ -1,0 +1,16 @@
+{
+  "name": "professional",
+  "version": "1.0.0",
+  "description": "in this one we are gonna make our own youtube",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": [
+    "chai",
+    "youtube",
+    "node"
+  ],
+  "author": "me",
+  "license": "MIT"
+}
